@@ -5,3 +5,7 @@ body{
 h5{
     margin: 15px;
 }
+.gallery-item{
+    width: 200px;
+    height: 150px;
+}

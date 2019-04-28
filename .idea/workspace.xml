@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4c24489e-530c-496f-9db9-3b35e6b2f6ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/cv/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cv/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/cv/site.webmanifest" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,12 +124,12 @@
       <option name="presentableId" value="Default" />
       <updated>1556454776259</updated>
       <workItem from="1556454777627" duration="11181000" />
-      <workItem from="1556472029580" duration="6071000" />
+      <workItem from="1556472029580" duration="6521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17252000" />
+    <option name="totallyTimeSpent" value="17702000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -141,7 +142,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

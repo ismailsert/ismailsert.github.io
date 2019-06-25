@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4c24489e-530c-496f-9db9-3b35e6b2f6ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv/images/cky/DSC_0048-min_thumb.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv/images/cky/DSC_0056-min_thumb.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv/images/cky/DSC_0239-min_thumb.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv/images/cky/DSC_0240-min_thumb.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv/images/cky/DSC_0299-min_thumb.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv/images/cky/DSC_0936-min_thumb.webp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cv/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cv/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cv/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="632">
-              <caret line="345" column="219" selection-start-line="345" selection-start-column="219" selection-end-line="345" selection-end-column="219" />
+            <state relative-caret-position="195">
+              <caret line="52" column="65" selection-start-line="52" selection-start-column="65" selection-end-line="52" selection-end-column="65" />
               <folding>
                 <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -46,8 +40,12 @@
     </leaf>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>-min.webp&quot; class=&quot;img-thumbnail d-lg-inline-block gallery-item&quot;&gt;</find>
+    </findStrings>
     <replaceStrings>
       <replace>-min.webp</replace>
+      <replace>-min_thumb.webp&quot; class=&quot;img-thumbnail d-lg-inline-block gallery-item&quot;&gt;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -158,12 +156,14 @@
       <workItem from="1556651273012" duration="622000" />
       <workItem from="1558473227272" duration="1676000" />
       <workItem from="1558477386654" duration="1713000" />
-      <workItem from="1558479784181" duration="1184000" />
+      <workItem from="1558479784181" duration="1983000" />
+      <workItem from="1558481944290" duration="1063000" />
+      <workItem from="1561499850007" duration="249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27483000" />
+    <option name="totallyTimeSpent" value="29594000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -191,7 +191,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.22077923" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2198697" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -225,8 +225,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cv/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="345" column="219" selection-start-line="345" selection-start-column="219" selection-end-line="345" selection-end-column="219" />
+        <state relative-caret-position="195">
+          <caret line="52" column="65" selection-start-line="52" selection-start-column="65" selection-end-line="52" selection-end-column="65" />
           <folding>
             <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
